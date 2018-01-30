@@ -17,14 +17,13 @@ Open a PR if you have package you want to submit.
 
 # Want to get started right away and not mess with AWS Lambda settings and permissions? Use Clay.
 
+Tesseract: https://www.clay.run/services/kareem/tesseract-ocr-image-bundle
+
 Try Tesseract from Clay's UI. Press quick run to see a demo against a
 hard coded image URL or pass in any image url in the UI. You can call
 the function by making an HTTP Post call to the Clay Function URL.
 If you want to modify the code, simply fork the function and edit and
 deploy:
-
-1. Tesseract: https://www.clay.run/services/kareem/tesseract-ocr-image-bundle
-
 
 We'll be adding Clay functions for each package that we add. Feel free
 to contribute your own binary package or Clay function to this list.
