@@ -1,0 +1,17 @@
+{
+  "name": "kareem-tesseract-image-ocr",
+  "description": "A service that takes in bits and moves atoms",
+  "authors": "kareem",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "tesseract-lambda": "^0.0.1",
+    "tesseract.js": "^1.0.10"
+  },
+  "scripts": {
+    "start": "node tesseract-image-ocr"
+  }
+}
