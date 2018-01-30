@@ -4,18 +4,19 @@ Popular binaries packaged for use in AWS Lambda. Just edit the code and deploy t
 # Getting started
 1. Clone the repo.
 2. Run ```npm install``` in the directory of the project that you'd like to
-   run AWS Lambda.
-3. Edit the code then zip and deploy it to AWS
+   run on AWS Lambda.
+3. Edit the code then zip and deploy it to AWS. 
 
-# Packages listed
+# Packages Available
 1. Tesseract
 2. PhantomJS (coming soon)
 3. Git (coming soon)
 
-Leave an issue if you are interested in another package here
+Open an issue to let us know what package you'd want us to list next.
+Open a PR if you have package you want to submit.
 
 # Want to get started right away and not mess with AWS Lambda settings
-and permissions? Use Clay.
+# and permissions? Use Clay.
 
 Try Tesseract from Clay's UI. Press quick run to see a demo against a
 hard coded image URL or pass in any image url in the UI. You can call
