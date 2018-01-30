@@ -15,8 +15,7 @@ Popular binaries packaged for use in AWS Lambda. Just edit the code and deploy t
 Open an issue to let us know what package you'd want us to list next.
 Open a PR if you have package you want to submit.
 
-# Want to get started right away and not mess with AWS Lambda settings
-# and permissions? Use Clay.
+# Want to get started right away and not mess with AWS Lambda settings and permissions? Use Clay.
 
 Try Tesseract from Clay's UI. Press quick run to see a demo against a
 hard coded image URL or pass in any image url in the UI. You can call
